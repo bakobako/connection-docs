@@ -12,6 +12,7 @@ The following extractors allow access to data from generic storage services:
 - [FTP](/components/extractors/storage/ftp) --- imports CSV files from the FTP, FTPS, and SFTP servers.
 - [GoogleDrive](/components/extractors/storage/google-drive/) --- imports data from Google Drive sheets (also part of the [Tutorial](/tutorial/load/googledrive/)).
 - [HTTP](/components/extractors/storage/http/) --- imports CSV files stored on HTTP or HTTPS.
+- [HTTP Advanced](/components/extractors/storage/http-advanced/) --- imports data from HTTP with custom headers and request parameters.
 - [Keboola Connection Storage](/components/extractors/storage/storage-api/) --- loads single or multiple tables from a Keboola Connection project and stores them in a bucket in your current project; can be used where [Data Catalog](/catalog/) cannot.
 - [OneDrive](/components/extractors/storage/onedrive/) --- imports data from OneDrive Excel sheets.
 - And [more](https://components.keboola.com/components)

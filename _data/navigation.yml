@@ -140,6 +140,9 @@ items:
               - url: /components/extractors/storage/http/
                 title: HTTP
 
+              - url: /components/extractors/storage/http-advanced/
+                title: HTTP Advanced
+
               - url: /components/extractors/storage/storage-api/
                 title: Keboola Connection Storage
 
