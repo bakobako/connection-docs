@@ -111,9 +111,6 @@ items:
               - url: /components/extractors/marketing-sales/babelforce/
                 title: Babelforce
 
-              - url: /components/extractors/marketing-sales/criteo/
-                title: Criteo
-
               - url: /components/extractors/marketing-sales/customerio/
                 title: Customer IO
 
